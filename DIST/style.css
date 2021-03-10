@@ -56,7 +56,7 @@ footer .footer-cols ul {
 footer .footer-cols {
   display: grid;
   grid-gap: 20px;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   padding: 2rem;
   text-align: left;
   font-size: 14px;
