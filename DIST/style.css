@@ -41,7 +41,7 @@ img {
 }
 /* emtertainment */
 section#entertainment {
-  background: url("/DIST/img/section-bg.jpg") no-repeat bottom/cover;
+  background: url("./DIST/img/section-bg.jpg") no-repeat bottom/cover;
   padding: 10rem 0;
 }
 
@@ -126,7 +126,7 @@ footer .footer-bottom {
 #showcase {
   margin: 0;
   padding: 0;
-  background: url("/DIST/img/showcase.jpg") no-repeat center/cover;
+  background: url("./DIST/img/showcase.jpg") no-repeat center/cover;
   height: 100vh;
   width: 100%;
   position: relative;
